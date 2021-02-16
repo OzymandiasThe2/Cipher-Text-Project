@@ -7,7 +7,7 @@ This is a game where you enter a message and the program will encrypt the messag
 - Substitution 
 - Rivest–Shamir–Adleman (RSA), default Prime Numbers are: 103, 157
 - Playfair
-- Caesar
+- Caesar, shifted 3
 - Product, uses 1 substitution then 1 transposition 
 
 ## Things that dont work
@@ -19,6 +19,7 @@ This is a game where you enter a message and the program will encrypt the messag
 ## TODO
 - I'm not sure why we made it spit of ciphers randomly, but fix it so it just spits out all variants and or let user choose which cipher to work with
 - Make a working GUI
+  - Certain things like Ceasar Shifts, and RSA Prime Numbers, configurable
 - Figure out why sometimes substitution randomly crashes
 
 
