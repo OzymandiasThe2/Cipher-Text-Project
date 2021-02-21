@@ -12,7 +12,7 @@ This is a game where you enter a message and the program will encrypt the messag
 
 ## Things that dont work
 - Substitution seems to crash sometimes, not sure whats causing that
-  - Transpostion will crash if substitution doesnt work right.
+  - Product will crash if substitution doesnt work right.
 - RSA crashes if the inputted text is too large. This is an easy fix, it requires the default prime number to be made bigger.
 
 
