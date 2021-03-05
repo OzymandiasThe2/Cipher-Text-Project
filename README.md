@@ -1,4 +1,6 @@
 # Encryption/Decryption
+Was made for INFR 2140U - Object Oriented Programming Course
+
 A project made using various different types of encryption keys and methods.
 This is a game where you enter a message and the program will encrypt the message. The user will continue to enter messages till they deside to exit, to exit the user enters STOP. Once the user enters STOP the program will show the encrypted, decrypted message. It will also show the algorithmic method used to encrypt the message.
 
